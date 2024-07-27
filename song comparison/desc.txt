@@ -1,0 +1,33 @@
+rows 4601
+Track	Album Name	Artist	Release Date	ISRC	All Time Rank	Track Score	Spotify Streams	Spotify Playlist Count	Spotify Playlist Reach	Spotify Popularity	YouTube Views	YouTube Likes	TikTok Posts	TikTok Likes	TikTok Views	YouTube Playlist Reach	Apple Music Playlist Count	AirPlay Spins	SiriusXM Spins	Deezer Playlist Count	Deezer Playlist Reach	Amazon Playlist Count	Pandora Streams	Pandora Track Stations	Soundcloud Streams	Shazam Counts	TIDAL Popularity	Explicit Track
+col 29
+
+album is might necessaru 
+release date n ece
+artist also 
+isrc not 
+The ISRC (International Standard Recording Code) is a unique identifier for audio and video recordings. It's used to identify individual tracks, regardless of format or distribution method. Here are the key points about ISRC:
+
+track score no
+
+In music, "tracking score" can refer to the process of recording or following along with the written notation of a musical piece while it is being played or studied. A musical score is a written representation of a piece of music, showing all the parts and instruments that are involved.
+
+
+playlist 
+ spotify
+
+	playlist count no`
+	reach no
+youtube
+no playlist 
+apple
+no play count
+tiktok 
+
+explict track
+
+In music, an "explicit track" refers to a song that contains explicit content. This can include strong language, sexual references, drug use, or other mature themes that may not be suitable for all audiences. These tracks are typically marked with a parental advisory label to warn listeners about the explicit content.
+
+in working............
+
+release date is shuffled transfromed using chaange type and using locale

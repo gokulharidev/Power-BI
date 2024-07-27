@@ -1,0 +1,17 @@
+all character - uppercase
+number to date format order date and ship date
+unit sold
+unit price 
+unit cost 
+total revenue equal
+total cost plus
+total profit
+
+region 
+country 
+item type
+
+in which region which country product sold higher
+
+in which period people bought products
+
